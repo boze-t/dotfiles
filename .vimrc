@@ -104,3 +104,11 @@ set clipboard=unnamed
 set noswapfile
 
 inoremap <expr><Enter> pumvisible() ? "\<C-y>" : "\<Enter>"
+noremap <Up> <Nop>
+noremap <Down> <Nop>
+noremap <Left> <Nop>
+noremap <Right> <Nop>
+noremap <ESC><ESC> :noh<CR>
+noremap <Tab> gt
+noremap <S-Tab> gT
+cnoremap e tabe
