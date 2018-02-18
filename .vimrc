@@ -111,4 +111,4 @@ noremap <Right> <Nop>
 noremap <ESC><ESC> :noh<CR>
 noremap <Tab> gt
 noremap <S-Tab> gT
-cnoremap e tabe
+noremap :e :tabe
