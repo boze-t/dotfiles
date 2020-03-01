@@ -4,3 +4,5 @@ repo = 'Shougo/dein.vim'
 [[plugins]]
 repo = 'mattn/emmet-vim'
 
+[[plugins]]
+repo = 'posva/vim-vue'

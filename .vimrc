@@ -30,6 +30,9 @@ syntax enable
 if dein#check_install()
     call dein#install()
 endif
+
+autocmd FileType vue syntax sync fromstart
+
 	
 ""NeoBundle Scripts-----------------------------
 "
