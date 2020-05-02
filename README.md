@@ -1,8 +1,3 @@
-```
-#!
-git clone --recursive git@bitbucket.org:ykajiyama/dotfiles.git
-```
-
 [brewをinstall](http://brew.sh/)
 
 [vimをinstall](http://qiita.com/takara@github/items/4ad4123e8646d909a920)
