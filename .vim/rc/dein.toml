@@ -4,3 +4,15 @@ repo = 'Shougo/dein.vim'
 [[plugins]]
 repo = 'mattn/emmet-vim'
 
+[[plugins]]
+repo = 'posva/vim-vue'
+
+[[plugins]]
+repo = 'tomasr/molokai'
+
+[[plugins]]
+repo = 'nelsyeung/twig.vim'
+
+[[plugins]]
+repo = 'rking/ag.vim'
+
