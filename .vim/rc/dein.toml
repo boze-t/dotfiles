@@ -15,4 +15,3 @@ repo = 'nelsyeung/twig.vim'
 
 [[plugins]]
 repo = 'rking/ag.vim'
-
